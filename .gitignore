@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.pytest_cache/
+data/*.json (if you keep private credentials locally)
+*.pyc
